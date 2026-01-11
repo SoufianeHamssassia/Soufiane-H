@@ -16,4 +16,4 @@ I am a certified Network Technician (CCNA, Akamai Linux) bridging the gap betwee
   - **Data:** Data Analytics (ALX Fellow), Excel Automation.
 
 ## My Current Lab Projects
-  - **Mission 01 : Refresh Réseau OCP :** (./Missions/Mission_01_OCP_Refresh)
+  - **Mission 01 : Refresh Réseau OCP :** (https://github.com/SoufianeHamssassia/Soufiane-H/tree/main/Missions/Mission_01_OCP_Refresh)
